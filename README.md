@@ -1,5 +1,18 @@
 # Simple Go into client and server folder and run "npm install" command and required npm packages automatice install in it.
 
+mysql db configuration change in server/index.js file
+
+const db = mysql.createPool({
+    host:"localhost",
+    user:"root",
+    password:'',
+    database:'node_db' // create same name of database in mysql
+})
+
+# Create table like display in below image. 
+
+![alt text](https://github.com/yogesh034/React-Js-Express-Js-and-mysql-CRUD/blob/main/client/public/mysql-node-db.PNG?raw=true)
+
 # Client responce Add user details:
 
 ![alt text](https://github.com/yogesh034/React-Js-Express-Js-and-mysql-CRUD/blob/main/client/public/add-client.PNG?raw=true)
