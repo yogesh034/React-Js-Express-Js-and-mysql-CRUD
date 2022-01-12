@@ -1,12 +1,17 @@
 # Simple Go into client and server folder and run "npm install" command and required npm packages automatice install in it.
 
-# server responce result
+# Client responce Add user details:
 
 ![alt text](https://github.com/yogesh034/React-Js-Express-Js-and-mysql-CRUD/blob/main/client/public/add-client.PNG?raw=true)
 
+# Client responce user list details:
 
 ![alt text](https://github.com/yogesh034/React-Js-Express-Js-and-mysql-CRUD/blob/main/client/public/client-list.PNG?raw=true)
 
+
+# Server API Responce
+
+![alt text](https://github.com/yogesh034/React-Js-Express-Js-and-mysql-CRUD/blob/main/client/public/server.PNG?raw=true)
 
 # Getting Started with Create React App
 
